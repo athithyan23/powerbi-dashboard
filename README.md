@@ -1,24 +1,17 @@
 # Power BI Dashboards – Athithyan A
+# Netflix Titles Dashboard
 
-This repository contains my Power BI dashboard projects.
+## Overview
+This dashboard analyzes Netflix titles dataset and provides insights on:
+- Total Titles
+- Movies vs TV Shows
+- Titles by Rating
+- Top 10 Countries by Titles
+- Titles Trend by Release Year
 
-## Skills Practicing
-- Power Query (data cleaning)
-- Data Modeling (relationships)
-- Visualizations
-- DAX Basics (learning)
-
-## Dashboards (Coming Soon)
-- Sales Dashboard
-- HR Analytics Dashboard
-- Fuel Monitoring Dashboard (project-based)
-
-## Tools
+## Tools Used
 - Power BI
-- SQL
-- Excel
+- CSV Dataset
 
-## Author
-Athithyan A  
-LinkedIn: https://www.linkedin.com/in/athii  
-GitHub: https://github.com/athithyan23
+## Dashboard Preview
+![Dashboard](dashboard.png)
